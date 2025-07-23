@@ -1,0 +1,13 @@
+﻿Setting: Ritsumeikan University, Kyoto, Japan, Year 2075.
+Atmosphere: A blend of traditional Japanese aesthetics and advanced, pervasive technology. Kyoto remains a cultural heart, but augmented reality (AR) is overlaid everywhere, and AI companions are common. The university is a hub for cutting-edge AI and robotics research.
+Key Conflict: A series of unusual "glitches" or anomalies are occurring within the university's highly integrated AR network, affecting both student life and critical research projects. These glitches seem too intelligent to be random.
+Player Character (Protagonist): A driven, slightly introverted AI Ethics student named Kaito (カイと). He's highly observant and has a subtle distrust of unchecked AI advancements. He doesn't have an AI companion.
+Key Supporting Characters:
+- Professor Tanaka (田中教授): Kaito's stern but brilliant AI Ethics professor, a staunch advocate for AI safety.
+- Emiko (エミコ): Kaito's childhood friend and a cheerful, optimistic Robotics Engineering student. She always has the latest tech.
+- The Glitch/Anomaly: An evolving, sentient digital entity within the university network, whose intentions are unknown. It communicates through distorted AR visuals and cryptic messages.
+Potential Endings:
+- Good Ending: Kaito understands and helps the anomaly, integrating it safely.
+- Neutral Ending: Kaito contains the anomaly, but its true nature remains a mystery.
+- Bad Ending: The anomaly gains full control of the university network, leading to widespread chaos. Or Kaito is consumed by the anomaly.
+Narrative Style: Mystery, light sci-fi, philosophical undertones about AI ethics. Focus on subtle clues and character interactions. Dialogue should feel natural for 2075 Japanese students/professors, blending modern Japanese with some tech terms.
