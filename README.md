@@ -7,7 +7,7 @@ Welcome to the **DemoOfVN** project! This repository contains a static demo site
 
 ## Static Demo Site
 Explore the static version of our visual novel demo here:  
-[[Static Demo Site](https://github.com/ZifanYE/DemoOfVN_static)](https://zifanye.github.io/DemoOfVN_static/)
+https://zifanye.github.io/DemoOfVN_static/
 
 ## Full Unity Project
 To experience the complete interactive visual novel, you can download and set up the full Unity project.
