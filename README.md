@@ -32,7 +32,8 @@ Download the full Unity project files from Google Drive:
 3. **Configure API Keys**:
    - In the Unity Editor's **Hierarchy**, locate the **Core** object.
    - ![Hierarchy](https://github.com/ZifanYE/UnityVNforGCCE/blob/main/ScreenShot/Hierarchy_position.png?text=Hierarchy) 
-   - Select the **Multi_choice** object and find the **MultiImageGenerationService** and **AIStoryBrancher** scripts under the **Image_Core** component.
+   - Select the **Multi_choice** object and find the **AIStoryBrancher** scripts
+   - Select the **Image_Core** object and find the **MultiImageGenerationService**  scripts
    - In the **Inspector**, locate the `api_key` fields for both scripts:
      - Enter your first **OpenAI API key** in the `api_key` field of the **MultiImageGenerationService** script.
      - Enter your second **OpenAI API key** in the `api_key` field of the **AIStoryBrancher** script.
