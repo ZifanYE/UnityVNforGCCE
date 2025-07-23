@@ -26,10 +26,12 @@ Download the full Unity project files from Google Drive:
 2. **Open the Project in Unity**:
    - Launch Unity Hub and open the extracted project folder.
    - In the Unity Editor, navigate to the **Scenes** folder and open the **AI-chat** scene.
-![AI_chat_scene](https://github.com/ZifanYE/UnityVNforGCCE/blob/main/ScreenShot/Scene_select.png?text=Select this scene)  
+   
+![AI_chat_scene](https://github.com/ZifanYE/UnityVNforGCCE/blob/main/ScreenShot/Scene_select.png?text=scene)
+
 3. **Configure API Keys**:
    - In the Unity Editor's **Hierarchy**, locate the **Core** object.
-   - ![Hierarchy](https://github.com/ZifanYE/UnityVNforGCCE/blob/main/ScreenShot/Hierarchy_position.png?text=Select this Hierarchy) 
+   - ![Hierarchy](https://github.com/ZifanYE/UnityVNforGCCE/blob/main/ScreenShot/Hierarchy_position.png?text=Hierarchy) 
    - Select the **Multi_choice** object and find the **MultiImageGenerationService** and **AIStoryBrancher** scripts under the **Image_Core** component.
    - In the **Inspector**, locate the `api_key` fields for both scripts:
      - Enter your first **OpenAI API key** in the `api_key` field of the **MultiImageGenerationService** script.
