@@ -1,4 +1,5 @@
-
+Static demo site:
+https://github.com/ZifanYE/DemoOfVN_static
 
 Full Unity project in google drive:
 https://drive.google.com/file/d/1amnWr7qdqqe1LRTjIMl9jhEM21vGfAhb/view?usp=sharing
